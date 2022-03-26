@@ -10,6 +10,7 @@ Note: The function accepts an integer and returns an integer.
 
 # Technologies Used
 * Java
+* Spring Boot
 * JUnit 5
 * Maven
 
