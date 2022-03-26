@@ -1,7 +1,7 @@
 # Square Every Digit
 
 # About
-This is my solution to a Codewars's kata.
+This is my solution to the Codewars's kata "Square Every Digit".
 
 # Instructions
 Welcome. In this kata, you are asked to square every digit of a number and concatenate them.
