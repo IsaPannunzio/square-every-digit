@@ -10,4 +10,4 @@ Note: The function accepts an integer and returns an integer.
 
 # How to Run
 * Download JDK
-* Run in the IDE of your choice
+* Run on the IDE of your choice
